@@ -1,0 +1,44 @@
+body{
+    background-color: white;
+}
+.box{
+    background-color:chocolate;
+    height:400px;
+    width:370px;
+    border-radius: 15px;
+    position: relative;
+    top: 100px;
+    left: 40%;
+}
+.display{
+    background-color:azure;
+    width: 350px;
+    position: relative;
+    left: 18px;
+    top: 20px;
+    height: 100px;
+}
+.display input
+{
+position:relative;
+left: 2px;
+top: 2px;
+height:55px;
+color:black;
+background-color:#bccd95;
+font-size: 24px;
+text-align: right;
+}
+.keys{
+    position: relative;
+    top: 30px;
+}
+.button{
+    width:50px;
+    height:30px;
+    border:none;
+    border-radius: 10px;
+    margin-left: 20px;
+    cursor: pointer;
+    border-top: 2px;
+}
